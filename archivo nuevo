@@ -1,0 +1,45 @@
+Que es y para qué sirve el archivo .gitignore
+ 
+este archivo de tipo texto que cumple la función de informarle a Git cuales carpetas o archivos se deben ignorar en un proyecto. Este va ubicado en el directorio raíz del proyecto y cualquier ingreso en este archivo será ignorado en todos los repositorios de Git. 
+
+Qué es y para qué sirve el archivo README.md 
+
+El  README.md es un archivo que contiene información relevante acerca del proyecto como; que tipo de proyecto es, la importancia, porque y para que se hace, como se puede colaborar con el proyecto, entre otros aspectos importantes.
+
+Qué tipo de licencias se pueden usar en un repositorio de git hub
+Extraído de “https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#searching-github-by-license-type”
+Licencia gratuita académica v3.0	afl-3.0
+Licencia de Apache 2.0	apache-2.0
+Licencia artística 2.0	artistic-2.0
+Licencia de Boost Software 1.0	bsl-1.0
+Licencia "simplificada" de la cláusula 2 de BSD	bsd-2-clause
+Licencia "nueva" o "revisada" de la cláusula 3 de BSD	bsd-3-clause
+Licencia Clear de la cláusula 3 de BSD	bsd-3-clause-clear
+Familia de licencias de Creative Commons	cc
+Creative Commons Zero v1.0 Universal	cc0-1.0
+Creative Commons Attribution 4.0	cc-by-4.0
+Creative Commons Attribution Share Alike 4.0	cc-by-sa-4.0
+Licencia pública Do What The F*ck You Want To	wtfpl
+Educational Community License v2.0	ecl-2.0
+Eclipse Public License 1.0	epl-1.0
+Eclipse Public License 2.0	epl-2.0
+Licencia pública de la Unión Europea 1.1	eupl-1.1
+Licencia pública general de GNU Affero v3.0	agpl-3.0
+Familia de licencias públicas generales de GNU	gpl
+Licencia pública general de GNU v2.0	gpl-2.0
+Licencia pública general de GNU v3.0	gpl-3.0
+Licencia Pública General Menor de GNU	lgpl
+Licencia Pública General Menor de GNU v2.1	lgpl-2.1
+Licencia Pública General Menor de GNU v3.0	lgpl-3.0
+ISC	isc
+Licencia pública de LaTeX Project v1.3c	lppl-1.3c
+Licencia pública de Microsoft	ms-pl
+MIT	mit
+Licencia pública de Mozilla 2.0	mpl-2.0
+Licencia de Open Software 3.0	osl-3.0
+Licencia de PostgreSQL	postgresql
+Licencia de SIL Open Font 1.1	ofl-1.1
+Licencia de código abierto de la Universidad de Illinois/NCSA	ncsa
+The Unlicense	unlicense
+Licencia de zLib	zlib
+
